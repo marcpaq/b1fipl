@@ -21,13 +21,13 @@ These single-file implementations are rarely complete, hardly sophisticated, or 
 
 [(How to Write a (Lisp) Interpreter (in Python))](http://www.norvig.com/lispy.html) implemented by Peter Norvig
 
-[Pascal-S](http://standardpascal.org/pascals.html) by implemented Niklaus Wirth & Scott A. Moore
+[Pascal-S](http://standardpascal.org/pascals.html) implemented by Niklaus Wirth & Scott A. Moore
 
 [jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones
 
 [The Super Tiny Compiler!](https://github.com/thejameskyle/the-super-tiny-compiler) implemented by James Kyle
 
-[Tiny Basic](http://ittybittycomputers.com/IttyBitty/TinyBasic/index.htm) by implemented Tom Pittman
+[Tiny Basic](http://ittybittycomputers.com/IttyBitty/TinyBasic/index.htm) implemented by Tom Pittman
 
 ## Epilogue
 
