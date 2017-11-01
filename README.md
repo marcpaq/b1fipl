@@ -11,7 +11,7 @@ It's easy to get overwhelmed when implementing a programming language. The GNU C
 
 That's too complicated to learn how to implement a programming language. Luckily, some smart people have distilled the most interesting parts of programming languages into an approachable essence. I'm referring to implementations of programming languages that fit in a single source code file. 
 
-These single-file implementations are rarely complete, hardly sophisticated, or efficient. But they are concise, clear, and easy to understand, letting you discover why programming languages are amazing.
+These single-file implementations are rarely complete, hardly sophisticated or efficient. But they are concise, clear, and easy to understand, letting you discover why programming languages are amazing.
 
 ## The Bestiary
 
