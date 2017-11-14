@@ -29,6 +29,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Tiny Basic](http://ittybittycomputers.com/IttyBitty/TinyBasic/index.htm) implemented by Tom Pittman
 
+[How to implement a programming language in JavaScript](http://lisperator.net/pltut/) implemented by Mihai Bazon
+
 ## Epilogue
 
 Have you implemented a programming language in a single file? Let me know with a pull request.
