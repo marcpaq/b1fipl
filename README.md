@@ -31,6 +31,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [How to implement a programming language in JavaScript](http://lisperator.net/pltut/) implemented by Mihai Bazon
 
+[7 lines of code, 3 minutes](http://matt.might.net/articles/implementing-a-programming-language/) implemented by Matt Might
+
 ## Epilogue
 
 Have you implemented a programming language in a single file? Let me know with a pull request.
