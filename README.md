@@ -15,23 +15,25 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 ## The Bestiary
 
+[7 lines of code, 3 minutes](http://matt.might.net/articles/implementing-a-programming-language/) implemented by Matt Might
+
 [arpilisp](https://github.com/marcpaq/arpilisp) implemented by Marc Paquette
 
 [Brainfuck](http://www.muppetlabs.com/~breadbox/software/tiny/bf.asm.txt) implemented by Brian Raiter
 
+[How to implement a programming language in JavaScript](http://lisperator.net/pltut/) implemented by Mihai Bazon
+
 [(How to Write a (Lisp) Interpreter (in Python))](http://www.norvig.com/lispy.html) implemented by Peter Norvig
 
-[Pascal-S](http://standardpascal.org/pascals.html) implemented by Niklaus Wirth & Scott A. Moore
-
 [jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones
+
+[Lisp In Less Than 200 Lines Of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html) implemented by Carl Douglas
+
+[Pascal-S](http://standardpascal.org/pascals.html) implemented by Niklaus Wirth & Scott A. Moore
 
 [The Super Tiny Compiler!](https://github.com/thejameskyle/the-super-tiny-compiler) implemented by James Kyle
 
 [Tiny Basic](http://ittybittycomputers.com/IttyBitty/TinyBasic/index.htm) implemented by Tom Pittman
-
-[How to implement a programming language in JavaScript](http://lisperator.net/pltut/) implemented by Mihai Bazon
-
-[7 lines of code, 3 minutes](http://matt.might.net/articles/implementing-a-programming-language/) implemented by Matt Might
 
 ## Epilogue
 
