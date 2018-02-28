@@ -35,6 +35,11 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Tiny Basic](http://ittybittycomputers.com/IttyBitty/TinyBasic/index.htm) implemented by Tom Pittman
 
+## Honourable Mention
+
+[An Implementation of J](http://www.jsoftware.com/books/pdf/aioj.pdf) implemented by Arthur Whitney. See the appendix "Incunabulum". It's only a fragment of the J interpreter, but its conciseness is impressive.
+
+
 ## Epilogue
 
 Have you implemented a programming language in a single file? Let me know with a pull request.
