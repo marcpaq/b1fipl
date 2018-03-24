@@ -19,6 +19,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [arpilisp](https://github.com/marcpaq/arpilisp) implemented by Marc Paquette.
 
+[asm6502.py](http://www.dabeaz.com/superboard/asm6502.py) implemented by David Beazley.
+
 [Brainfuck](http://www.muppetlabs.com/~breadbox/software/tiny/bf.asm.txt) implemented by Brian Raiter.
 
 [How to implement a programming language in JavaScript](http://lisperator.net/pltut/) implemented by Mihai Bazon.
