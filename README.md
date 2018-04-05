@@ -13,11 +13,7 @@ That's too complicated to learn how to implement a programming language. Luckily
 
 These single-file implementations are rarely complete, hardly sophisticated or efficient. But they are concise, clear, and easy to understand, letting you discover why programming languages are amazing.
 
-## The Bestiary
-
-[7 lines of code, 3 minutes](http://matt.might.net/articles/implementing-a-programming-language/) implemented by Matt Might.
-
-[arpilisp](https://github.com/marcpaq/arpilisp) implemented by Marc Paquette.
+## Declarative
 
 [asm6502.py](http://www.dabeaz.com/superboard/asm6502.py) implemented by David Beazley.
 
@@ -25,17 +21,9 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [How to implement a programming language in JavaScript](http://lisperator.net/pltut/) implemented by Mihai Bazon.
 
-[(How to Write a (Lisp) Interpreter (in Python))](http://www.norvig.com/lispy.html) implemented by Peter Norvig.
-
 [jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones.
 
-[Lisp In Less Than 200 Lines Of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html) implemented by Carl Douglas.
-
-[Mini-Scheme](https://github.com/catseye/minischeme) updated by Chris Pressey, originally implemented by Atsushi Moriwaki.
-
 [Pascal-S](http://standardpascal.org/pascals.html) implemented by Niklaus Wirth & Scott A. Moore.
-
-[A Regular Expression Matcher](http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html) implemented by Rob Pike, exegesis by Brian Kernighan.
 
 [The Super Tiny Compiler!](https://github.com/thejameskyle/the-super-tiny-compiler) implemented by James Kyle.
 
@@ -45,9 +33,25 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [VTL02 for 6502](https://github.com/Klaus2m5/VTL02) ported and improved by Mike Barry. VTL-02 was originally designed and implemented by [Gary Shannon & Frank McCoy](http://www.altair680kit.com/manuals/Altair_680-VTL-2%20Manual-05-Beta_1-Searchable.pdf).
 
-## Honourable Mention
+
+## Functional
+
+[7 lines of code, 3 minutes](http://matt.might.net/articles/implementing-a-programming-language/) implemented by Matt Might.
+
+[arpilisp](https://github.com/marcpaq/arpilisp) implemented by Marc Paquette.
+
+[(How to Write a (Lisp) Interpreter (in Python))](http://www.norvig.com/lispy.html) implemented by Peter Norvig.
+
+[Lisp In Less Than 200 Lines Of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html) implemented by Carl Douglas.
+
+[Mini-Scheme](https://github.com/catseye/minischeme) updated by Chris Pressey, originally implemented by Atsushi Moriwaki.
+
+
+## Honourable Mentions
 
 [An Implementation of J](http://www.jsoftware.com/books/pdf/aioj.pdf) implemented by Arthur Whitney. See the appendix "Incunabulum". It's only a fragment of the J interpreter, but its conciseness is impressive.
+
+[A Regular Expression Matcher](http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html) implemented by Rob Pike, exegesis by Brian Kernighan.
 
 
 ## Epilogue
