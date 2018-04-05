@@ -46,6 +46,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Mini-Scheme](https://github.com/catseye/minischeme) updated by Chris Pressey, originally implemented by Atsushi Moriwaki.
 
+[sedlisp](https://github.com/shinh/sedlisp) implemented by Shinichiro Hamaji.
+
 
 ## Honourable Mentions
 
