@@ -13,7 +13,7 @@ That's too complicated to learn how to implement a programming language. Luckily
 
 These single-file implementations are rarely complete, hardly sophisticated or efficient. But they are concise, clear, and easy to understand, letting you discover why programming languages are amazing.
 
-## Declarative
+## Imperative
 
 [asm6502.py](http://www.dabeaz.com/superboard/asm6502.py) implemented by David Beazley.
 
@@ -47,6 +47,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 [Mini-Scheme](https://github.com/catseye/minischeme) updated by Chris Pressey, originally implemented by Atsushi Moriwaki.
 
 [sedlisp](https://github.com/shinh/sedlisp) implemented by Shinichiro Hamaji.
+
+## Imperative
 
 
 ## Honourable Mentions
