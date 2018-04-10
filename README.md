@@ -13,27 +13,6 @@ That's too complicated to learn how to implement a programming language. Luckily
 
 These single-file implementations are rarely complete, hardly sophisticated or efficient. But they are concise, clear, and easy to understand, letting you discover why programming languages are amazing.
 
-## Imperative
-
-[asm6502.py](http://www.dabeaz.com/superboard/asm6502.py) implemented by David Beazley.
-
-[Brainfuck](http://www.muppetlabs.com/~breadbox/software/tiny/bf.asm.txt) implemented by Brian Raiter.
-
-[How to implement a programming language in JavaScript](http://lisperator.net/pltut/) implemented by Mihai Bazon.
-
-[jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones.
-
-[Pascal-S](http://standardpascal.org/pascals.html) implemented by Niklaus Wirth & Scott A. Moore.
-
-[The Super Tiny Compiler!](https://github.com/thejameskyle/the-super-tiny-compiler) implemented by James Kyle.
-
-[Tiny Basic](http://ittybittycomputers.com/IttyBitty/TinyBasic/index.htm) implemented by Tom Pittman.
-
-[Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) implemented by Stephen Brennan.
-
-[VTL02 for 6502](https://github.com/Klaus2m5/VTL02) ported and improved by Mike Barry. VTL-02 was originally designed and implemented by [Gary Shannon & Frank McCoy](http://www.altair680kit.com/manuals/Altair_680-VTL-2%20Manual-05-Beta_1-Searchable.pdf).
-
-
 ## Functional
 
 [7 lines of code, 3 minutes](http://matt.might.net/articles/implementing-a-programming-language/) implemented by Matt Might.
@@ -48,7 +27,28 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [sedlisp](https://github.com/shinh/sedlisp) implemented by Shinichiro Hamaji.
 
+
 ## Imperative
+
+[asm6502.py](http://www.dabeaz.com/superboard/asm6502.py) implemented by David Beazley.
+
+[Brainfuck](http://www.muppetlabs.com/~breadbox/software/tiny/bf.asm.txt) implemented by Brian Raiter.
+
+[dc](https://github.com/dspinellis/unix-history-repo/blob/Research-V7-Snapshot-Development/usr/src/cmd/dc/dc.c) implemented by Lorinda Cherry.
+
+[How to implement a programming language in JavaScript](http://lisperator.net/pltut/) implemented by Mihai Bazon.
+
+[jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones.
+
+[Pascal-S](http://standardpascal.org/pascals.html) implemented by Niklaus Wirth & Scott A. Moore.
+
+[The Super Tiny Compiler!](https://github.com/thejameskyle/the-super-tiny-compiler) implemented by James Kyle.
+
+[Tiny Basic](http://ittybittycomputers.com/IttyBitty/TinyBasic/index.htm) implemented by Tom Pittman.
+
+[Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) implemented by Stephen Brennan.
+
+[VTL02 for 6502](https://github.com/Klaus2m5/VTL02) ported and improved by Mike Barry. VTL-02 was originally designed and implemented by [Gary Shannon & Frank McCoy](http://www.altair680kit.com/manuals/Altair_680-VTL-2%20Manual-05-Beta_1-Searchable.pdf).
 
 
 ## Honourable Mentions
