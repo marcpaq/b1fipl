@@ -19,6 +19,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [arpilisp](https://github.com/marcpaq/arpilisp) implemented by Marc Paquette.
 
+[How to implement a programming language in JavaScript](http://lisperator.net/pltut/) implemented by Mihai Bazon.
+
 [(How to Write a (Lisp) Interpreter (in Python))](http://www.norvig.com/lispy.html) implemented by Peter Norvig.
 
 [Lisp In Less Than 200 Lines Of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html) implemented by Carl Douglas.
@@ -35,8 +37,6 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 [Brainfuck](http://www.muppetlabs.com/~breadbox/software/tiny/bf.asm.txt) implemented by Brian Raiter.
 
 [dc](https://github.com/dspinellis/unix-history-repo/blob/Research-V7-Snapshot-Development/usr/src/cmd/dc/dc.c) implemented by Lorinda Cherry.
-
-[How to implement a programming language in JavaScript](http://lisperator.net/pltut/) implemented by Mihai Bazon.
 
 [jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones.
 
