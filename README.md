@@ -42,6 +42,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones.
 
+[Mini-C](https://github.com/Fedjmike/mini-c) implemented by Sam Nipps. A small subset of C, of course. But not as small as you would guess.
+
 [Pascal-S](http://standardpascal.org/pascals.html) implemented by Niklaus Wirth & Scott A. Moore.
 
 [The Super Tiny Compiler!](https://github.com/thejameskyle/the-super-tiny-compiler) implemented by James Kyle.
