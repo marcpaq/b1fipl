@@ -44,6 +44,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Mini-C](https://github.com/Fedjmike/mini-c) implemented by Sam Nipps. A small subset of C, of course. But not as small as you would guess.
 
+[Mouse](http://users.encs.concordia.ca/~grogono/Mouse/mouse.html) implemented by Peter Grogono.
+
 [Pascal-S](http://standardpascal.org/pascals.html) implemented by Niklaus Wirth & Scott A. Moore.
 
 [The Super Tiny Compiler!](https://github.com/thejameskyle/the-super-tiny-compiler) implemented by James Kyle.
