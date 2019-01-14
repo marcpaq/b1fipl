@@ -50,6 +50,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Pascal-S](http://standardpascal.org/pascals.html) implemented by Niklaus Wirth & Scott A. Moore.
 
+[swizzle](https://github.com/rswier/swizzle) implemented by Robert Swierczek.
+
 [The Super Tiny Compiler!](https://github.com/thejameskyle/the-super-tiny-compiler) implemented by James Kyle.
 
 [Tiny Basic](http://ittybittycomputers.com/IttyBitty/TinyBasic/index.htm) implemented by Tom Pittman.
