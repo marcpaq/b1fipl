@@ -38,6 +38,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Brainfuck](http://www.muppetlabs.com/~breadbox/software/tiny/bf.asm.txt) implemented by Brian Raiter.
 
+[c4](https://github.com/rswier/c4) C in 4 functions, implemented by Robert Swierczek.
+
 [dc](https://github.com/dspinellis/unix-history-repo/blob/Research-V7-Snapshot-Development/usr/src/cmd/dc/dc.c) implemented by Lorinda Cherry.
 
 [jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones.
