@@ -31,6 +31,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [sedlisp](https://github.com/shinh/sedlisp) implemented by Shinichiro Hamaji.
 
+[single_cream](https://github.com/rain-1/single_cream), scheme interpreter implemented by Raymond Nicholson.
+
 
 ## Imperative
 
