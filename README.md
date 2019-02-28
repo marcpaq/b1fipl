@@ -23,6 +23,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [(How to Write a (Lisp) Interpreter (in Python))](http://www.norvig.com/lispy.html) implemented by Peter Norvig.
 
+[komplott](https://github.com/krig/LISP) implemented by Kristoffer Grönlund.
+
 [Lisp In Less Than 200 Lines Of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html) implemented by Carl Douglas.
 
 [MiniLisp](https://github.com/rui314/minilisp) implemented by Rui Ueyama.
