@@ -25,6 +25,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [komplott](https://github.com/krig/LISP) implemented by Kristoffer Grönlund.
 
+[Lisp90](http://howtowriteaprogram.blogspot.com/2010/11/lisp-interpreter-in-90-lines-of-c.html) implemented by Anthony C. Hay.
+
 [Lisp In Less Than 200 Lines Of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html) implemented by Carl Douglas.
 
 [MiniLisp](https://github.com/rui314/minilisp) implemented by Rui Ueyama.
