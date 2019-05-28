@@ -75,6 +75,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Tiny Compiler](http://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/) implemented by Minko Gechev. It translates only arithmetic expressions, but it's well written.
 
+[256LOL](http://blog.jeff.over.bz/assembly/compilers/jit/2017/01/15/x86-assembler.html) implemented by Jeff Overbey. An x86 assembler in 256 lines or less. Technically not a single file and arguably not a programming language. But Jeff's gives good descriptions of the problems with elegant, simple solutions.
+
 ## Epilogue
 
 Have you implemented a programming language in a single file? Let me know with a pull request.
