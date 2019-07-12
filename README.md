@@ -62,6 +62,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Tiny Basic](http://ittybittycomputers.com/IttyBitty/TinyBasic/index.htm) implemented by Tom Pittman.
 
+[Tiny Compiler](https://github.com/mgechev/tiny-compiler) implemented by Minko Gechev. In 25 lines of JavaScript you get the major steps in compilation: lexical analysis, syntax analysis, and code generation.
+
 [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) implemented by Stephen Brennan.
 
 [VTL02 for 6502](https://github.com/Klaus2m5/VTL02) ported and improved by Mike Barry. VTL-02 was originally designed and implemented by [Gary Shannon & Frank McCoy](http://www.altair680kit.com/manuals/Altair_680-VTL-2%20Manual-05-Beta_1-Searchable.pdf).
