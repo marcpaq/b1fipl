@@ -25,7 +25,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [komplott](https://github.com/krig/LISP) implemented by Kristoffer Grönlund.
 
-[Lisp9](https://www.t3x.org/lisp9/index.html) by Nils M. Holm. A byte-compiling Lisp interpreter.
+[Lisp9](https://www.t3x.org/lisp9/index.html) implemented by Nils M. Holm. A byte-compiling Lisp interpreter.
 
 [Lisp90](http://howtowriteaprogram.blogspot.com/2010/11/lisp-interpreter-in-90-lines-of-c.html) implemented by Anthony C. Hay.
 
@@ -35,7 +35,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Mini-Scheme](https://github.com/catseye/minischeme) updated by Chris Pressey, originally implemented by Atsushi Moriwaki.
 
-[mLite](https://www.t3x.org/mlite/index.html) by Nils M. Holm. A lightweight variant of ML.
+[mLite](https://www.t3x.org/mlite/index.html) implemented by Nils M. Holm. A lightweight variant of ML.
 
 [sedlisp](https://github.com/shinh/sedlisp) implemented by Shinichiro Hamaji.
 
