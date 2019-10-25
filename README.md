@@ -1,6 +1,6 @@
 # A Bestiary of Single-File Implementations of Programming Languages
 
-![Cover](https://raw.githubusercontent.com/marcpaq/b1fipl/master/FunnyAnimals.jpg "Cover")
+![From a French Prayer-book of the Thirteenth Century, in the British Museum.](https://raw.githubusercontent.com/marcpaq/b1fipl/master/FunnyAnimals.jpg "Credit: Project Gutenberg")
 
 
 ## Introduction
