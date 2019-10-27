@@ -35,6 +35,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Mini-Scheme](https://github.com/catseye/minischeme) updated by Chris Pressey, originally implemented by Atsushi Moriwaki.
 
+[Microlisp](https://github.com/lazear/microlisp), a Scheme-like lisp in less than 1000 loc of C, implemented by Michael Lazear 
+
 [mLite](https://www.t3x.org/mlite/index.html) implemented by Nils M. Holm. A lightweight variant of ML.
 
 [sedlisp](https://github.com/shinh/sedlisp) implemented by Shinichiro Hamaji.
