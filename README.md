@@ -73,13 +73,15 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 ## Honourable Mentions
 
+[256LOL](http://blog.jeff.over.bz/assembly/compilers/jit/2017/01/15/x86-assembler.html) implemented by Jeff Overbey. An x86 assembler in 256 lines or less. Technically not a single file but Jeff gives good descriptions of the problems with elegant, simple solutions.
+
 [An Implementation of J](http://www.jsoftware.com/books/pdf/aioj.pdf) implemented by Arthur Whitney. See the appendix "Incunabulum". It's only a fragment of the J interpreter, but its conciseness is impressive.
 
 [A Regular Expression Matcher](http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html) implemented by Rob Pike, exegesis by Brian Kernighan.
 
-[Tiny Compiler](http://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/) implemented by Minko Gechev. It translates only arithmetic expressions, but it's well written.
+[Microlisp](https://github.com/lazear/microlisp), a Scheme-like lisp in less than 1000 loc of C, implemented by Michael Lazear. A single-implementation with extra files for examples and building. 
 
-[256LOL](http://blog.jeff.over.bz/assembly/compilers/jit/2017/01/15/x86-assembler.html) implemented by Jeff Overbey. An x86 assembler in 256 lines or less. Technically not a single file but Jeff gives good descriptions of the problems with elegant, simple solutions.
+[Tiny Compiler](http://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/) implemented by Minko Gechev. It translates only arithmetic expressions, but it's well written.
 
 ## Epilogue
 
