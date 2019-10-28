@@ -60,6 +60,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Pascal-S](http://standardpascal.org/pascals.html) implemented by Niklaus Wirth & Scott A. Moore.
 
+[picol](http://oldblog.antirez.com/page/picol.html) is a Tcl interpreter implemented in C. Implemented by Salvatore Sanfilippo, aka antirez.
+
 [swizzle](https://github.com/rswier/swizzle) implemented by Robert Swierczek.
 
 [The Super Tiny Compiler!](https://github.com/thejameskyle/the-super-tiny-compiler) implemented by James Kyle.
