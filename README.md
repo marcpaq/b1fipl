@@ -72,6 +72,9 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [VTL02 for 6502](https://github.com/Klaus2m5/VTL02) ported and improved by Mike Barry. VTL-02 was originally designed and implemented by [Gary Shannon & Frank McCoy](http://www.altair680kit.com/manuals/Altair_680-VTL-2%20Manual-05-Beta_1-Searchable.pdf).
 
+## Logical
+
+[microKanren](https://github.com/jasonhemann/microKanren-DLS-16/blob/master/mk.rkt) is a Kanren interpreter, implemented by Jason Hemann.
 
 ## Honourable Mentions
 
