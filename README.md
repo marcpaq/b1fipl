@@ -76,6 +76,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [microKanren](https://github.com/jasonhemann/microKanren-DLS-16/blob/master/mk.rkt) is a Kanren interpreter, implemented by Jason Hemann.
 
+[prolog.c](http://www.cl.cam.ac.uk/~am21/research/funnel/prolog.c) is a simple Prolog interpreter written in C++, implemented by Alan Mycroft.
+
 ## Honourable Mentions
 
 [256LOL](http://blog.jeff.over.bz/assembly/compilers/jit/2017/01/15/x86-assembler.html) implemented by Jeff Overbey. An x86 assembler in 256 lines or less. Technically not a single file but Jeff gives good descriptions of the problems with elegant, simple solutions.
