@@ -78,6 +78,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [prolog.c](http://www.cl.cam.ac.uk/~am21/research/funnel/prolog.c) is a simple Prolog interpreter written in C++, implemented by Alan Mycroft.
 
+[Prolog](http://t3x.org/lisp64k/prolog.html) originally implemented by Ken Kahn, adapted by Nils M. Holm.
+
 ## Honourable Mentions
 
 [256LOL](http://blog.jeff.over.bz/assembly/compilers/jit/2017/01/15/x86-assembler.html) implemented by Jeff Overbey. An x86 assembler in 256 lines or less. Technically not a single file but Jeff gives good descriptions of the problems with elegant, simple solutions.
