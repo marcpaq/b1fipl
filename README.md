@@ -9,7 +9,7 @@ Programming languages are amazing pieces of work. They turn our words, numbers, 
 
 It's easy to get overwhelmed when implementing a programming language. The GNU Compiler Collection is [millions of lines long](https://www.phoronix.com/scan.php?page=news_item&px=MTE1OTg).
 
-That's too complicated to learn how to implement a programming language. Luckily, some smart people have distilled the most interesting parts of programming languages into an approachable essence. I'm referring to implementations of programming languages that fit in a single source code file. 
+That's too complicated to learn how to implement a programming language. Luckily, some smart people have distilled the most interesting parts of programming languages into an approachable essence. I'm referring to implementations of programming languages that fit in a single source code file.
 
 These single-file implementations are rarely complete, hardly sophisticated or efficient. But they are self-contained, concise, and clear. They make it fun to discover why programming languages are amazing.
 
@@ -40,6 +40,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 [sedlisp](https://github.com/shinh/sedlisp) implemented by Shinichiro Hamaji.
 
 [single_cream](https://github.com/rain-1/single_cream), scheme interpreter implemented by Raymond Nicholson.
+
+[ulc](https://github.com/masaeedu/ulc) implemented by Asad Saeeduddin. A minimalistic implementation of the untyped lambda calculus in JS
 
 
 ## Imperative
@@ -90,11 +92,10 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [A Regular Expression Matcher](http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html) implemented by Rob Pike, exegesis by Brian Kernighan.
 
-[Microlisp](https://github.com/lazear/microlisp), a Scheme-like lisp in less than 1000 loc of C, implemented by Michael Lazear. A single-implementation with extra files for examples and building. 
+[Microlisp](https://github.com/lazear/microlisp), a Scheme-like lisp in less than 1000 loc of C, implemented by Michael Lazear. A single-implementation with extra files for examples and building.
 
 [Tiny Compiler](http://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/) implemented by Minko Gechev. It translates only arithmetic expressions, but it's well written.
 
 ## Epilogue
 
 Have you implemented a programming language in a single file? Let me know with a pull request.
-
