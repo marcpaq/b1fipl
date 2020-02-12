@@ -43,6 +43,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [ulc](https://github.com/masaeedu/ulc) implemented by Asad Saeeduddin. A minimalistic implementation of the untyped lambda calculus in JS
 
+[Most functional](hhttp://www.ioccc.org/2012/tromp/hint.html) implemented by John Tromp. An implementation of Binary Lambda Calculus in 25 lines of obfuscated C.
 
 ## Imperative
 
