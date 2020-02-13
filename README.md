@@ -43,6 +43,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [ulc](https://github.com/masaeedu/ulc) implemented by Asad Saeeduddin. A minimalistic implementation of the untyped lambda calculus in JS
 
+[μLithp](https://github.com/fogus/ulithp) is a teeny-tiny Lisp in 24 lines of Ruby. Also with a reader, REPL, and compiler implemented as separate classes.
 
 ## Imperative
 
