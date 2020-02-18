@@ -37,7 +37,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [mLite](https://www.t3x.org/mlite/index.html) implemented by Nils M. Holm. A lightweight variant of ML.
 
-[Most functional](http://www.ioccc.org/2012/tromp/hint.html) implemented by John Tromp. An implementation of Binary Lambda Calculus in 25 lines of obfuscated C.
+[Most functional](http://www.ioccc.org/2012/tromp/hint.html) implemented by John Tromp. An implementation of binary lambda calculus in 25 lines of obfuscated C.
 
 [sedlisp](https://github.com/shinh/sedlisp) implemented by Shinichiro Hamaji.
 
