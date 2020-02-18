@@ -57,7 +57,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Forth1](https://gist.github.com/tluyben/16ee2645c4c8aed813005d51488d5c6a) implemented by Tycho Luyben.
 
-[jasic](https://github.com/munificent/jasic) implemented by Robert Nystrom. Old-school BASIC in Java.
+[Jasic](https://github.com/munificent/jasic) implemented by Robert Nystrom. Old-school BASIC in Java.
 
 [jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones.
 
@@ -96,6 +96,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 [An Implementation of J](http://www.jsoftware.com/books/pdf/aioj.pdf) implemented by Arthur Whitney. See the appendix "Incunabulum". It's only a fragment of the J interpreter, but its conciseness is impressive.
 
 [A Regular Expression Matcher](http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html) implemented by Rob Pike, exegesis by Brian Kernighan.
+
+[JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter/blob/master/interpreter.js) implemented by Neil Fraser. A JavaScript interpreter in JavaScript. This file is part of a larger project for running JavaScript in a sandbox. 
 
 [Microlisp](https://github.com/lazear/microlisp), a Scheme-like lisp in less than 1000 loc of C, implemented by Michael Lazear. A single-implementation with extra files for examples and building.
 
