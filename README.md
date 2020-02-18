@@ -57,6 +57,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Forth1](https://gist.github.com/tluyben/16ee2645c4c8aed813005d51488d5c6a) implemented by Tycho Luyben.
 
+[jasic](https://github.com/munificent/jasic) implemented by Robert Nystrom. Old-school BASIC in Java.
+
 [jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones.
 
 [Mini-C](https://github.com/Fedjmike/mini-c) implemented by Sam Nipps. A small subset of C, of course. But not as small as you would guess.
