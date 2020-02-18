@@ -33,6 +33,15 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Lisp In Less Than 200 Lines Of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html) implemented by Carl Douglas.
 
+mescc-tools-seed, implemented by Jeremiah Orians. An complete chain of
+one-file languages, from compiler to assemblers and even a shell: 
+[C compiler in assembly](https://github.com/oriansj/mescc-tools-seed/blob/master/x86/cc_x86.M1),
+[macro assembler to build the C compiler](https://github.com/oriansj/mescc-tools-seed/blob/master/x86/M0_x86.hex2),
+[hex2 assembler to build the macro assembler](https://github.com/oriansj/mescc-tools-seed/blob/master/x86/hex2_x86.hex1),
+[hex1 assembler to build the hex2 assembler](https://github.com/oriansj/mescc-tools-seed/blob/master/x86/hex1_x86.hex0),
+[hex0 assembler to bootstrap the whole thing](https://github.com/oriansj/mescc-tools-seed/blob/master/x86/hex0_x86.hex0), and finally, a
+[shell to script the previous stages](https://github.com/oriansj/bootstrap-seeds/blob/master/kaem-optional-seed.hex0).
+
 [MiniLisp](https://github.com/rui314/minilisp) implemented by Rui Ueyama.
 
 [Mini-Scheme](https://github.com/catseye/minischeme) updated by Chris Pressey, originally implemented by Atsushi Moriwaki.
