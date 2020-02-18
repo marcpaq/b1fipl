@@ -25,6 +25,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [komplott](https://github.com/krig/LISP) implemented by Kristoffer Grönlund.
 
+[Lisp500](https://web.archive.org/web/20040305005602/http://modeemi.cs.tut.fi/~chery/lisp500/) implemented by Teemu Kalvas. 
+
 [Lisp9](https://www.t3x.org/lisp9/index.html) implemented by Nils M. Holm. A byte-compiling Lisp interpreter.
 
 [Lisp90](http://howtowriteaprogram.blogspot.com/2010/11/lisp-interpreter-in-90-lines-of-c.html) implemented by Anthony C. Hay.
