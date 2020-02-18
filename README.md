@@ -33,7 +33,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Lisp In Less Than 200 Lines Of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html) implemented by Carl Douglas.
 
-mescc-tools-seed, implemented by Jeremiah Orians. An complete chain of
+mescc-tools-seed, implemented by Jeremiah Orians. A complete chain of
 one-file languages, from compiler to assemblers and even a shell, for Intel x86: 
 [C compiler in assembly](https://github.com/oriansj/mescc-tools-seed/blob/master/x86/cc_x86.M1),
 [macro assembler to build the C compiler](https://github.com/oriansj/mescc-tools-seed/blob/master/x86/M0_x86.hex2),
