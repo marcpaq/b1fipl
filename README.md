@@ -45,6 +45,10 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [single_cream](https://github.com/rain-1/single_cream), scheme interpreter implemented by Raymond Nicholson.
 
+[lisp-nontail.c](https://github.com/JeffBezanson/femtolisp/blob/master/tiny/lisp-nontail.c) implemented by Jeff Bezanson. Lexical scope and GC in <1000 lines.
+
+[lisp.c](https://github.com/JeffBezanson/femtolisp/blob/master/tiny/lisp.c) implemented by Jeff Bezanson. Lexical scope, tail calls and GC in ~1000 lines.
+
 [ulc](https://github.com/masaeedu/ulc) implemented by Asad Saeeduddin. A minimalistic implementation of the untyped lambda calculus in JS
 
 ## Imperative
