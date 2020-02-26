@@ -25,7 +25,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [komplott](https://github.com/krig/LISP) implemented by Kristoffer Grönlund.
 
-[Lisp500](https://web.archive.org/web/20040305005602/http://modeemi.cs.tut.fi/~chery/lisp500/) implemented by Teemu Kalvas. 
+[Lisp500](https://web.archive.org/web/20040305005602/http://modeemi.cs.tut.fi/~chery/lisp500/) implemented by Teemu Kalvas.
 
 [Lisp9](https://www.t3x.org/lisp9/index.html) implemented by Nils M. Holm. A byte-compiling Lisp interpreter.
 
@@ -66,7 +66,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 [jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones.
 
 mescc-tools-seed, implemented by Jeremiah Orians. A complete chain of
-one-file languages, from compiler to assemblers and even a shell, for Intel x86: 
+one-file languages, from compiler to assemblers and even a shell, for Intel x86:
 [C compiler in assembly](https://github.com/oriansj/mescc-tools-seed/blob/master/x86/cc_x86.M1),
 [macro assembler to build the C compiler](https://github.com/oriansj/mescc-tools-seed/blob/master/x86/M0_x86.hex2),
 [hex2 assembler to build the macro assembler](https://github.com/oriansj/mescc-tools-seed/blob/master/x86/hex2_x86.hex1),
@@ -110,7 +110,7 @@ one-file languages, from compiler to assemblers and even a shell, for Intel x86:
 
 [A Regular Expression Matcher](http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html) implemented by Rob Pike, exegesis by Brian Kernighan.
 
-[JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter/blob/master/interpreter.js) implemented by Neil Fraser. A JavaScript interpreter in JavaScript. This file is part of a larger project for running JavaScript in a sandbox. 
+[JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter/blob/master/interpreter.js) implemented by Neil Fraser. A JavaScript interpreter in JavaScript. This file is part of a larger project for running JavaScript in a sandbox.
 
 [Microlisp](https://github.com/lazear/microlisp), a Scheme-like lisp in less than 1000 loc of C, implemented by Michael Lazear. A single-implementation with extra files for examples and building.
 
