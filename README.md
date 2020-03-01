@@ -82,6 +82,8 @@ one-file languages, from compiler to assemblers and even a shell, for Intel x86:
 
 [picol](http://oldblog.antirez.com/page/picol.html) is a Tcl interpreter implemented in C. Implemented by Salvatore Sanfilippo, aka antirez.
 
+[Selfie](https://github.com/cksystemsteaching/selfie) includes a 1-file C compiler in C. Implemented by the Computational Systems Group at the Department of Computer Sciences of the University of Salzburg.
+
 [swizzle](https://github.com/rswier/swizzle) implemented by Robert Swierczek.
 
 [The Super Tiny Compiler!](https://github.com/thejameskyle/the-super-tiny-compiler) implemented by James Kyle.
