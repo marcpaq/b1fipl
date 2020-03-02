@@ -104,6 +104,8 @@ one-file languages, from compiler to assemblers and even a shell, for Intel x86:
 
 [Prolog](http://t3x.org/lisp64k/prolog.html) originally implemented by Ken Kahn, adapted by Nils M. Holm.
 
+[Tiny Prolog in OCaml](https://github.com/Naereen/Tiny-Prolog-in-OCaml-OneFile) is a tiny implementation of a small subset of the Prolog language, in OCaml, implemented by [Lilian Besson (@Naereen)](https://github.com/Naereen/)
+
 ## Honourable Mentions
 
 [256LOL](http://blog.jeff.over.bz/assembly/compilers/jit/2017/01/15/x86-assembler.html) implemented by Jeff Overbey. An x86 assembler in 256 lines or less. Technically not a single file but Jeff gives good descriptions of the problems with elegant, simple solutions.
