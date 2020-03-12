@@ -13,6 +13,18 @@ That's too complicated to learn how to implement a programming language. Luckily
 
 These single-file implementations are rarely complete, hardly sophisticated or efficient. But they are self-contained, concise, and clear. They make it fun to discover why programming languages are amazing.
 
+## Concatenative
+
+[bbf, v3](https://github.com/blippy/cerbo/blob/master/forth/v3/forth.c) implemented by Mark Carter. A Forth in C.
+
+[dc](https://github.com/dspinellis/unix-history-repo/blob/Research-V7-Snapshot-Development/usr/src/cmd/dc/dc.c) implemented by Lorinda Cherry.
+
+[Forth1](https://gist.github.com/tluyben/16ee2645c4c8aed813005d51488d5c6a) implemented by Tycho Luyben.
+
+[jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones.
+
+[Mouse](http://users.encs.concordia.ca/~grogono/Mouse/mouse.html) implemented by Peter Grogono.
+
 ## Functional
 
 [7 lines of code, 3 minutes](http://matt.might.net/articles/implementing-a-programming-language/) implemented by Matt Might.
@@ -51,19 +63,11 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [asm6502.py](http://www.dabeaz.com/superboard/asm6502.py) implemented by David Beazley.
 
-[bbf, v3](https://github.com/blippy/cerbo/blob/master/forth/v3/forth.c) implemented by Mark Carter. A Forth in C.
-
 [Brainfuck](http://www.muppetlabs.com/~breadbox/software/tiny/bf.asm.txt) implemented by Brian Raiter.
 
 [c4](https://github.com/rswier/c4) C in 4 functions, implemented by Robert Swierczek.
 
-[dc](https://github.com/dspinellis/unix-history-repo/blob/Research-V7-Snapshot-Development/usr/src/cmd/dc/dc.c) implemented by Lorinda Cherry.
-
-[Forth1](https://gist.github.com/tluyben/16ee2645c4c8aed813005d51488d5c6a) implemented by Tycho Luyben.
-
 [Jasic](https://github.com/munificent/jasic) implemented by Robert Nystrom. Old-school BASIC in Java.
-
-[jonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) implemented by Richard W.M. Jones.
 
 mescc-tools-seed, implemented by Jeremiah Orians. A complete chain of
 one-file languages, from compiler to assemblers and even a shell, for Intel x86: 
@@ -75,8 +79,6 @@ one-file languages, from compiler to assemblers and even a shell, for Intel x86:
 [shell to script the previous stages](https://github.com/oriansj/bootstrap-seeds/blob/master/kaem-optional-seed.hex0).
 
 [Mini-C](https://github.com/Fedjmike/mini-c) implemented by Sam Nipps. A small subset of C, of course. But not as small as you would guess.
-
-[Mouse](http://users.encs.concordia.ca/~grogono/Mouse/mouse.html) implemented by Peter Grogono.
 
 [Pascal-S](http://standardpascal.org/pascals.html) implemented by Niklaus Wirth & Scott A. Moore.
 
@@ -104,7 +106,7 @@ one-file languages, from compiler to assemblers and even a shell, for Intel x86:
 
 [Prolog](http://t3x.org/lisp64k/prolog.html) originally implemented by Ken Kahn, adapted by Nils M. Holm.
 
-[Tiny Prolog in OCaml](https://github.com/Naereen/Tiny-Prolog-in-OCaml-OneFile) is a tiny implementation of a small subset of the Prolog language, in OCaml, implemented by [Lilian Besson (@Naereen)](https://github.com/Naereen/)
+[Tiny Prolog in OCaml](https://github.com/Naereen/Tiny-Prolog-in-OCaml-OneFile) is an interpreter for a subset of Prolog, in OCaml, implemented by [Lilian Besson (@Naereen)](https://github.com/Naereen/)
 
 ## Honourable Mentions
 
