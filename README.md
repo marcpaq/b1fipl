@@ -125,3 +125,5 @@ one-file languages, from compiler to assemblers and even a shell, for Intel x86:
 ## Epilogue
 
 Have you implemented a programming language in a single file? Let me know with a pull request.
+
+Or branch your own b1fipl. If you do, please give me credit.
