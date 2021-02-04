@@ -1,6 +1,8 @@
 # A Bestiary of Single-File Implementations of Programming Languages
 
-![From a French Prayer-book of the Thirteenth Century, in the British Museum.](https://raw.githubusercontent.com/marcpaq/b1fipl/master/FunnyAnimals.jpg "Credit: Project Gutenberg")
+![From a French Prayer-book of the Thirteenth Century, in the British Museum.](https://raw.githubusercontent.com/marcpaq/b1fipl/master/FunnyAnimals.jpg)
+
+(Parton, James. _Caricature and Other Comic Art in all Times and many Lands_ Project Gutenberg. Retrieved 2021-02-04. http://gutenberg.org/ebooks/39347
 
 
 ## Introduction
