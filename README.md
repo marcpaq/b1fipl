@@ -2,8 +2,6 @@
 
 ![From a French Prayer-book of the Thirteenth Century, in the British Museum.](https://raw.githubusercontent.com/marcpaq/b1fipl/master/FunnyAnimals.jpg)
 
-(Parton, James. _Caricature and Other Comic Art in all Times and many Lands_ Project Gutenberg. Retrieved 2021-02-04. http://gutenberg.org/ebooks/39347
-
 
 ## Introduction
 
@@ -129,3 +127,7 @@ one-file languages, from compiler to assemblers and even a shell, for Intel x86:
 Have you implemented a programming language in a single file? Let me know with a pull request.
 
 Or branch your own b1fipl. If you do, please give me credit.
+
+## Image credit
+
+Parton, James. _Caricature and Other Comic Art in all Times and many Lands_. Project Gutenberg. Retrieved 2021-02-04. http://gutenberg.org/ebooks/39347
