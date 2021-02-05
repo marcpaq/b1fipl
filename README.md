@@ -65,6 +65,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Brainfuck](http://www.muppetlabs.com/~breadbox/software/tiny/bf.asm.txt) implemented by Brian Raiter.
 
+[bc](https://github.com/depsterr/bc) implemented by depsterr. A compiler which compiles brainfuck into binaries for x86_64 linux.
+
 [c4](https://github.com/rswier/c4) C in 4 functions, implemented by Robert Swierczek.
 
 [Jasic](https://github.com/munificent/jasic) implemented by Robert Nystrom. Old-school BASIC in Java.
