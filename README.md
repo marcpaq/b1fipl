@@ -63,9 +63,9 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [asm6502.py](http://www.dabeaz.com/superboard/asm6502.py) implemented by David Beazley.
 
-[Brainfuck](http://www.muppetlabs.com/~breadbox/software/tiny/bf.asm.txt) implemented by Brian Raiter.
+[bc](https://github.com/depsterr/bc) implemented by depsterr. Compiles brainfuck into an x86_64 linux binary.
 
-[bc](https://github.com/depsterr/bc) implemented by depsterr. A compiler which compiles brainfuck into binaries for x86_64 linux.
+[Brainfuck](http://www.muppetlabs.com/~breadbox/software/tiny/bf.asm.txt) implemented by Brian Raiter.
 
 [c4](https://github.com/rswier/c4) C in 4 functions, implemented by Robert Swierczek.
 
