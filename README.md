@@ -25,7 +25,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Mouse](http://users.encs.concordia.ca/~grogono/Mouse/mouse.html) implemented by Peter Grogono.
 
-[Ripen](https://felix.plesoianu.ro/languages/forth/ripen/) implemented by Felix Pleşoianu. Forth-like in Python / JS / D.
+[Ripen](https://felix.plesoianu.ro/languages/forth/ripen/) implemented by Felix Pleşoianu. Forth-like in C++ and JS.
 
 ## Functional
 
@@ -47,7 +47,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Lisp In Less Than 200 Lines Of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html) implemented by Carl Douglas.
 
-[Lispy Logo](https://felix.plesoianu.ro/languages/logo/lispy/) implemented by Felix Pleşoianu. Toy language hybrid in Python / JS / D.
+[Babble](https://felix.plesoianu.ro/languages/babble/) implemented by Felix Pleşoianu. Toy Lisp-like in Python / JS.
 
 [MiniLisp](https://github.com/rui314/minilisp) implemented by Rui Ueyama.
 
