@@ -25,8 +25,6 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Mouse](http://users.encs.concordia.ca/~grogono/Mouse/mouse.html) implemented by Peter Grogono.
 
-[Ripen](https://felix.plesoianu.ro/languages/forth/ripen/) implemented by Felix Pleşoianu. Forth-like in Python / JS / D.
-
 ## Functional
 
 [7 lines of code, 3 minutes](http://matt.might.net/articles/implementing-a-programming-language/) implemented by Matt Might.
@@ -46,8 +44,6 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 [Lisp90](http://howtowriteaprogram.blogspot.com/2010/11/lisp-interpreter-in-90-lines-of-c.html) implemented by Anthony C. Hay.
 
 [Lisp In Less Than 200 Lines Of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html) implemented by Carl Douglas.
-
-[Lispy Logo](https://felix.plesoianu.ro/languages/logo/lispy/) implemented by Felix Pleşoianu. Toy language hybrid in Python / JS / D.
 
 [MiniLisp](https://github.com/rui314/minilisp) implemented by Rui Ueyama.
 
@@ -99,8 +95,6 @@ one-file languages, from compiler to assemblers and even a shell, for Intel x86:
 [The Super Tiny Compiler!](https://github.com/thejameskyle/the-super-tiny-compiler) implemented by James Kyle.
 
 [Tiny Basic](http://ittybittycomputers.com/IttyBitty/TinyBasic/index.htm) implemented by Tom Pittman.
-
-[Tinycat Basic](https://felix.plesoianu.ro/languages/basic/tinycat/) implemented by Felix Pleşoianu in <1K LOC of Python / Java / D.
 
 [Trac](http://code.activestate.com/recipes/577366-trac-interpreter-sixties-programming-language/) implemented by Jack Trainor.
 
