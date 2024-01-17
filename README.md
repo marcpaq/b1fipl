@@ -3,7 +3,7 @@
 ![From a French Prayer-book of the Thirteenth Century, in the British Museum.](https://raw.githubusercontent.com/marcpaq/b1fipl/master/FunnyAnimals.jpg)
 
 
-## Programming langauges are amazing
+## Programming languages are amazing
 
 Programming languages are amazing pieces of work. They turn our words, numbers, and symbols into the bits that make a machine do things.
 
