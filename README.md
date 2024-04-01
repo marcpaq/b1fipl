@@ -65,6 +65,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [asm6502.py](http://www.dabeaz.com/superboard/asm6502.py) implemented by David Beazley.
 
+[wak](https://github.com/raygard/wak/tree/main/monosrc) is the single-file version of a "fairly compact implementation of the [AWK](https://en.wikipedia.org/wiki/AWK) programming language", implemented by Ray Gardner.
+
 [bc](https://github.com/depsterr/bc) implemented by depsterr. Compiles brainfuck into an x86_64 linux binary.
 
 [Brainfuck](http://www.muppetlabs.com/~breadbox/software/tiny/bf.asm.txt) implemented by Brian Raiter.
