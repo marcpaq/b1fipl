@@ -25,6 +25,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Mouse](http://users.encs.concordia.ca/~grogono/Mouse/mouse.html) implemented by Peter Grogono.
 
+[drifblim](https://wiki.xxiivv.com/etc/drifblim.tal.txt) is the single-file version of an assembler for the [uxntal](https://wiki.xxiivv.com/site/uxntal.html) programming language, implemented by Devine Lu Linvega.
+
 ## Functional
 
 [7 lines of code, 3 minutes](http://matt.might.net/articles/implementing-a-programming-language/) implemented by Matt Might.
