@@ -25,6 +25,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Mouse](http://users.encs.concordia.ca/~grogono/Mouse/mouse.html) implemented by Peter Grogono.
 
+[Uxntal](https://wiki.xxiivv.com/etc/drifblim.tal.txt) implemented by Devine Lu Linvega. Uxntal in Uxntal.
+
 ## Functional
 
 [7 lines of code, 3 minutes](http://matt.might.net/articles/implementing-a-programming-language/) implemented by Matt Might.
