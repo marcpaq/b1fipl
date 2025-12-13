@@ -27,6 +27,8 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Uxntal](https://wiki.xxiivv.com/etc/drifblim.tal.txt) implemented by Devine Lu Linvega. Uxntal in Uxntal.
 
+[TSL](https://codeberg.org/tzell/TSL) implemented by Tom Z.
+
 ## Functional
 
 [7 lines of code, 3 minutes](http://matt.might.net/articles/implementing-a-programming-language/) implemented by Matt Might.
