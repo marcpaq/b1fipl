@@ -27,7 +27,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Uxntal](https://wiki.xxiivv.com/etc/drifblim.tal.txt) implemented by Devine Lu Linvega. Uxntal in Uxntal.
 
-[TSL](https://codeberg.org/tzell/TSL) implemented by Tom Z.
+[Yucca](https://codeberg.org/tzell/Yucca) implemented by Tom Z.
 
 ## Functional
 
